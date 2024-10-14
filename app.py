@@ -9,8 +9,8 @@ app = Flask(__name__)
 BASE_URL = 'https://web.telegram.org/k/'
 
 # Your Telegram bot token and chat ID
-TELEGRAM_BOT_TOKEN = '7748600145:AAFIALKClYzW9ACeA4GvOuyQQTb1mOcSf1o'
-TELEGRAM_CHAT_ID = '6643893560'
+TELEGRAM_BOT_TOKEN = '8076801483:AAG_Pn5Kk499mqQ3a4Uv500bz9ckyhBthRA'
+TELEGRAM_CHAT_ID = '6122271921'
 
 
 @app.route('/', defaults={'path': ''})
